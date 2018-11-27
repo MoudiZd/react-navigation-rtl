@@ -6,7 +6,15 @@ This repository is made to reproduce an issue with the react navigation library 
 
 to reproduce this issue you must clone this project or download and extract it to a specific folder
 
-then go to the folder where you cloned or extracted the project and run
+To clone this repository run this command from terminal withing your project directory
+
+`clone https://github.com/MoudiZd/react-navigation-rtl`
+
+When Cloning is finished go to the folder where you cloned or extracted the project by using a command similar to this
+
+`cd react-native-rtl`
+
+Then run
 
 `npm install`
 
