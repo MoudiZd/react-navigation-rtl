@@ -22,6 +22,6 @@ when all dependencies are installed run
 
 `react-native run-android`
 
-when the app us started slide the drawer from the tight side of screen and you must see the issue with the drawere that is not well displayed like shown in this image
+when the app is started slide the drawer from the right side of screen and you must see the issue with the drawer that is not well displayed like shown in this image
 
 ![Issue screen shot](https://github.com/MoudiZd/react-navigation-rtl/raw/master/Screenshot_1543273526.png)
